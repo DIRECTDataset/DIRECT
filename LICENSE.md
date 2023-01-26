@@ -1,4 +1,4 @@
-*** Notes
+### Notes
 
 1. DIRECT dataset is available for non-commercial research purpose only.
 2. You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purpose, any portion of the contexts and any portion of derived data.
