@@ -1,5 +1,9 @@
 # DIRECT - DIalogue-based REading Comprehension Tutoring Dataset
 
+### Paper
+J.X. Huang, Y. Lee and O.W. Kwon, "[DIRECT: Toward Dialogue-Based Reading Comprehension Tutoring](http://doi.org/10.1109/ACCESS.2022.3233224)," in IEEE Access, doi: 10.1109/ACCESS.2022.3233224.
+
+
 ### Description
 DIRECT is a DIalogue-based REading Comprehension Tutoring dataset, in which the tutor asks questions and gives feedback, while student answers can be correct or incorrect. Similar to a tutor in a real one-on-one tutoring situation, this dataset also includes a chat about a given passage. Other annotations, including key sentences and student answer assessment labels.
 
@@ -11,17 +15,6 @@ Here we release the test/dev and partial training sets of DIRECT Dataset. It can
 3) Feedback generation task 
 4) Student answer assessment tasks (NLI task)
 5) Dialogue generation task
-
-
-### Paper
-J.X. Huang, Y. Lee and O.W. Kwon, "[DIRECT: Toward Dialogue-Based Reading Comprehension Tutoring](http://doi.org/10.1109/ACCESS.2022.3233224)," in IEEE Access, doi: 10.1109/ACCESS.2022.3233224.
-
-
-### Notes
-1. DIRECT dataset is available for non-commercial research purpose only.
-2. The dialogues are developed based on RACE Dataset. 
-3. You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purpose, any portion of the contexts and any portion of derived data.
-4. We reserve the right to terminate your access to the DIRECT Dataset at any time.
 
 
 ### Data Usage
