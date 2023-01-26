@@ -3,7 +3,7 @@
 ### Description
 DIRECT is a DIalogue-based REading Comprehension Tutoring dataset, in which the tutor asks questions and gives feedback, while student answers can be correct or incorrect. Similar to a tutor in a real one-on-one tutoring situation, this dataset also includes a chat about a given passage. Other annotations, including key sentences and student answer assessment labels.
 
-The DIRECT dataset adopts the RACE dataset reading worksheets to simulate tutoring conversations. We chose RACE because it is a collection of reading comprehension exercises constructed by human experts for practical teaching [Lai et al., 2017](https://arxiv.org/abs/1704.04683). We focused on the RACE-M subset for middle school examinations.
+The DIRECT dataset adopts the RACE dataset reading worksheets to simulate tutoring conversations. We chose RACE because it is a collection of reading comprehension exercises constructed by human experts for practical teaching ([Lai et al., 2017](https://arxiv.org/abs/1704.04683)). We focused on the RACE-M subset for middle school examinations.
  
 Here we release the test/dev and partial training sets of DIRECT Dataset. It can be used along with or without the RACE corpus for following research tasks:
 1) Dialogue-based reading comprehension tutoring task 
